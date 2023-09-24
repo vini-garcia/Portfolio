@@ -59,7 +59,11 @@ export const Home = (): JSX.Element => {
             </Text>
             <Text type="body1" color="grey2">
               A newly graduated Full Stack programmer, coming from 10 years working as a lawyer.
-              Every day improving my knowledge of soft and hard skills.
+              Every day improving my knowledge of soft and hard skills. I currently live in London,
+              but I have Italian citizenship, so I have a work permit throughout Europe. I would
+              love to discuss further how I can integrate knowledge into your company, demonstrate
+              my knowledge of Hard Skills, or even get to know your company and some of your
+              employees internally.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
